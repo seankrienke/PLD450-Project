@@ -1,5 +1,6 @@
 html,body{
   height:100%;
+  background:lightblue;
   }
   
   *{
@@ -17,20 +18,24 @@ html,body{
     text-align: center;
     font-size: 24px;
     color: white;
-    
   }
+  
   .sidebar {
-    width: 180px;
-    float:left;
+    width: 170px;
+    float: left;
     min-height:100%;
     background:grey;
     text-align: center;
     font-size: 22px; 
+    text-decoration: none;
   }
   .main {
-    margin-left:178px;
+    margin-left: 300px;
+    margin-right: 300px;
     min-height:100%;
     background: lightblue;
     text-align: left;
+    font-size: 18px;
+
    }
   
