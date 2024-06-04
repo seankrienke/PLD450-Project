@@ -1,0 +1,22 @@
+html,body{
+  height:100%;
+  margin-right: 90px;
+  margin-left: 90px;
+  margin-bottom: 90px;
+  margin-top: 40px;
+  background-color: lightgoldenrodyellow;
+  font-size: 24px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+
+  }
+
+   img {
+    float: left;
+    margin: 15px 15px;
+   }
+  

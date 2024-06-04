@@ -6,12 +6,24 @@ html,body{
     margin-bottom: 90px; 
     margin-bottom: 90px; 
     background-color: lightseagreen;
+    
 
 
     h1 {
         text-align: center; 
-        font-size: 24px; 
+        font-size: 32px; 
     }
+
+    p1{
+        font-size: 24px;
+    }
+
+    .hangingindent {
+        padding-left: 22px ;
+        text-indent: -22px ;
+      }
+
+
 
 
 
